@@ -1,0 +1,17 @@
+{
+    "subject": "acct:auguste@albertshofer.net",
+    "links": [{
+      "rel": "http://openid.net/specs/connect/1.0/issuer",
+      "href": "https://auth.albertshofer.net"
+      },
+      {
+        "rel": "http://webfinger.net/rel/profile-page",
+        "href": "https://albertshofer.net/"
+      },
+      {
+        "rel": "me",
+        "href": "https://albertshofer.net/"
+      }
+    ]
+  }
+  
