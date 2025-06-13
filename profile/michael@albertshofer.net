@@ -2,7 +2,7 @@
     "subject": "acct:michael@albertshofer.net",
     "links": [{
       "rel": "http://openid.net/specs/connect/1.0/issuer",
-      "href": "https://auth.albertshofer.net"
+      "href": "https://sso.albertshofer.net"
       },
       {
         "rel": "http://webfinger.net/rel/profile-page",
